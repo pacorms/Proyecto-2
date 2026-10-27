@@ -9,3 +9,9 @@ Utilizando el simulador de Tinkercad construiremos un carrito que pueda ser cont
 * [Sketch de Arduino V1](V1_Proyecto_Inicial/proyecto2_V1.ino)
 * [Diagrama de Conexiones V1](V1_Proyecto_Inicial/Diagrama_A2.1.png)
 * [Video del Sistema Operacional V1](V1_Proyecto_Inicial/Video_muestra_A2.1.mp4)
+
+### 🔹 Versión 2
+* [Reporte V2](V2_Actualizacion/Reporte_A2.4.pdf)
+* [Sketch de Arduino V2](V2_Actualizacion/proyecto2_V2.ino)
+* [Diagrama de Conexiones V2](V2_Actualizacion/Diagrama_A2.4.png)
+* [Video del Sistema Operacional V2](V2_Actualizacion/Video_muestra_A2.4.mp4)
